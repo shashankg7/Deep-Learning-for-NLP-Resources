@@ -49,3 +49,7 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 23. http://www.offconvex.org/2016/02/14/word-embeddings-2/ : Explains the mathy stuff behind word2vec and glove (Also contains some links pointing to some other good articles on word2vec)
 
+24. http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python : Getting started with glove and word2vec with python
+
+25. http://www.foldl.me/2014/glove-python/ : Glove implementation details in python
+
