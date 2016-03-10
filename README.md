@@ -1,5 +1,5 @@
 # Deep-Learning-for-NLP-Resources
-List of resources to get started with Deep Learning for NLP. Listing resources which I found useful while learning the subject. 
+List of resources to get started with Deep Learning for NLP. Listing resources which I found useful while learning the subject (I'll update it incrementally) 
 
 1. https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH : This lecture series has very 	 	good introduction to Neural Network and Deep Learning.
 
@@ -25,4 +25,8 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 12. http://videolectures.net/mlss05us_lecun_ebmli/ : Intro to Energy based model by Yann Lecunn.
 
+13. http://videolectures.net/kdd2014_bengio_deep_learning/?q=ICLR# : Yoshua Bengio's lecture series recorded in KDD' 14.
 
+14. http://videolectures.net/nips09_collobert_weston_dlnl/ : Ronan Collobert lecture (it's quite old new, from 2008 but I think it is still useful).
+
+15. 
