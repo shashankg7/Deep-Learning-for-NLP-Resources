@@ -29,4 +29,23 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 14. http://videolectures.net/nips09_collobert_weston_dlnl/ : Ronan Collobert lecture (it's quite old new, from 2008 but I think it is still useful).
 
-15. 
+15. https://www.youtube.com/watch?v=eixGKz0Asr8 : Lecture series by Chris Manning and Richard Socher given at NAACL 2013 
+
+16. https://www.youtube.com/watch?v=AmG4jzmBZ88 : Lecture series for DL4NLP with some practical guidelines.
+
+17. https://blog.wtf.sg/2014/08/24/nlp-with-neural-networks/ : Blogpost on some DL applications.
+
+# Word Embeddings related articles
+
+18. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
+
+19. http://textminingonline.com/getting-started-with-word2vec-and-glove : Intro to word2vec and glove
+
+20. http://rare-technologies.com/deep-learning-with-word2vec-and-gensim/ : Getting starting with word2vec and gensim.
+
+21. http://www.lab41.org/anything2vec/ : Great explaination of word2vec and it's relation to neural networks
+
+22. http://www.offconvex.org/2015/12/12/word-embeddings-1/ : Intuition on word embedding methods
+
+23. http://www.offconvex.org/2016/02/14/word-embeddings-2/ : Explains the mathy stuff behind word2vec and glove (Also contains some links pointing to some other good articles on word2vec)
+
