@@ -62,3 +62,10 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 2. http://www.kdnuggets.com/2015/06/rnn-tutorial-sequence-learning-recurrent-neural-networks.html
 
 3. http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ : Series of posts explaining RNN with some code
+
+4. http://colah.github.io/posts/2015-08-Understanding-LSTMs/ : Great post explaining LSTMs
+
+# Datasets
+
+1. https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_08?pli=1 : Reddit comments dataset
+
