@@ -37,19 +37,28 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 # Word Embeddings related articles
 
-18. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
+1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
 
-19. http://textminingonline.com/getting-started-with-word2vec-and-glove : Intro to word2vec and glove
+2. http://textminingonline.com/getting-started-with-word2vec-and-glove : Intro to word2vec and glove
 
-20. http://rare-technologies.com/deep-learning-with-word2vec-and-gensim/ : Getting starting with word2vec and gensim.
+3. http://rare-technologies.com/deep-learning-with-word2vec-and-gensim/ : Getting starting with word2vec and gensim.
 
-21. http://www.lab41.org/anything2vec/ : Great explaination of word2vec and it's relation to neural networks
+4. http://www.lab41.org/anything2vec/ : Great explaination of word2vec and it's relation to neural networks
 
-22. http://www.offconvex.org/2015/12/12/word-embeddings-1/ : Intuition on word embedding methods
+5. http://www.offconvex.org/2015/12/12/word-embeddings-1/ : Intuition on word embedding methods
 
-23. http://www.offconvex.org/2016/02/14/word-embeddings-2/ : Explains the mathy stuff behind word2vec and glove (Also contains some links pointing to some other good articles on word2vec)
+6. http://www.offconvex.org/2016/02/14/word-embeddings-2/ : Explains the mathy stuff behind word2vec and glove (Also contains some links pointing to some other good articles on word2vec)
 
-24. http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python : Getting started with glove and word2vec with python
+7. http://textminingonline.com/getting-started-with-word2vec-and-glove-in-python : Getting started with glove and word2vec with python
 
-25. http://www.foldl.me/2014/glove-python/ : Glove implementation details in python
+8. http://www.foldl.me/2014/glove-python/ : Glove implementation details in python
 
+9. http://videolectures.net/kdd2014_salakhutdinov_deep_learning/ : Tutorial by Ruslan
+
+# RNN related stuff
+
+1. http://www.neutronest.moe/2015-11-15-LSTM-survey.html
+
+2. http://www.kdnuggets.com/2015/06/rnn-tutorial-sequence-learning-recurrent-neural-networks.html
+
+3. http://www.wildml.com/2015/09/recurrent-neural-networks-tutorial-part-1-introduction-to-rnns/ : Series of posts explaining RNN with some code
