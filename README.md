@@ -65,6 +65,10 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 4. http://colah.github.io/posts/2015-08-Understanding-LSTMs/ : Great post explaining LSTMs
 
+# Optimization for Neural Networks
+
+1. http://cs231n.github.io/neural-networks-3/#update
+
 # Datasets
 
 1. https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_08?pli=1 : Reddit comments dataset
