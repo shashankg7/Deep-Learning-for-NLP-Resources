@@ -35,6 +35,8 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 17. https://blog.wtf.sg/2014/08/24/nlp-with-neural-networks/ : Blogpost on some DL applications.
 
+18. http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html : Some useful tricks for training Neural Networks
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
