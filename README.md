@@ -57,6 +57,12 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 9. http://videolectures.net/kdd2014_salakhutdinov_deep_learning/ : Tutorial by Ruslan
 
+10. http://www.openu.ac.il/iscol2015/downloads/ISCOL2015_submission25_e_2.pdf : Comparing various word embedding models
+
+11. http://clic.cimec.unitn.it/marco/publications/acl2014/baroni-etal-countpredict-acl2014.pdf : Comparision between word2vec and glove
+
+12. https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf : word2vec as matrix factorization
+
 # RNN related stuff
 
 1. http://www.neutronest.moe/2015-11-15-LSTM-survey.html
