@@ -37,6 +37,8 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 18. http://lamda.nju.edu.cn/weixs/project/CNNTricks/CNNTricks.html : Some useful tricks for training Neural Networks
 
+19. http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf : Short notes on backprop and word embeddings
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
@@ -80,4 +82,6 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 # Datasets
 
 1. https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_08?pli=1 : Reddit comments dataset
+
+2. https://code.google.com/archive/p/word2vec/ : Links to unlabelled english corpus
 
