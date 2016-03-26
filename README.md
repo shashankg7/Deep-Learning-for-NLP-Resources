@@ -81,6 +81,12 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 1. http://cs231n.github.io/neural-networks-3/#update
 
+2. http://nptel.ac.in/courses/106108056/10 : JUMP TO SECTION : Uncontstrained optimization. Has tutorials on Non-convex optimization essential in deep Learning.
+
+3. http://online.stanford.edu/course/convex-optimization-winter-2014 : Has more convex optimization part, contains basics of Optimization
+
+4. http://videolectures.net/deeplearning2015_schmidt_smooth_finite/ : Deep Learning Summer School optimization lecture
+
 # Datasets
 
 1. https://bigquery.cloud.google.com/table/fh-bigquery:reddit_comments.2015_08?pli=1 : Reddit comments dataset
