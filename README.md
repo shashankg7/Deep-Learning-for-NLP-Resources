@@ -39,6 +39,8 @@ List of resources to get started with Deep Learning for NLP. Listing resources w
 
 19. http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf : Short notes on backprop and word embeddings
 
+20. http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start : A course by Yann Lecunn on Deep Learning taught at NYU.
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
