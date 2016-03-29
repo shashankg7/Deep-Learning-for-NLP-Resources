@@ -1,5 +1,5 @@
 # Deep-Learning-for-NLP-Resources
-List of resources to get started with Deep Learning for NLP. Listing resources which I found useful while learning the subject (I'll update it incrementally) 
+List of resources to get started with Deep Learning for NLP. (Updated incrementally) 
 
 1. https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH : This lecture series has very 	 	good introduction to Neural Network and Deep Learning.
 
