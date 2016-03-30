@@ -93,3 +93,4 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 2. https://code.google.com/archive/p/word2vec/ : Links to unlabelled english corpus
 
+3. http://github.com/brmson/dataset-sts : Variety of datasets wrapped in Python with focus on comparing two sentences, sample implementations of popular deep NN models in Keras
