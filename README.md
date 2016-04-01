@@ -1,6 +1,7 @@
 # Deep-Learning-for-NLP-Resources
 List of resources to get started with Deep Learning for NLP. (Updated incrementally) 
 
+# Deep Learning (general + NLP) links:
 1. https://www.youtube.com/playlist?list=PL6Xpj9I5qXYEcOhn7TqghAJ6NAPrNmUBH : This lecture series has very 	 	good introduction to Neural Network and Deep Learning.
 
 2. https://www.coursera.org/course/neuralnets : This lecture series is from Geof Hinton. The concepts 		    explained are bit abstract, concepts are hard to understand in first go. Generally people recommend these 	 lectures as starting point but I am skeptical about it. I would suggest going through 1st one before this.
@@ -11,7 +12,7 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 5. http://www.deeplearningbook.org/ : This web page has a book draft written by Yoshua Bengio and Ian 			Goodfellow. Later person is author of Theano library. This is holy bible on Deep Learning. 
 
-6. http://cs231n.stanford.edu/ : Deep Learning for Vision by Stanford. Useful resources for Deep Learning for Vision.
+6. http://cs231n.stanford.edu/ : Deep Learning for Vision by Stanford. Good lectures by Andrej Karpathy on introduction to DL (some initial lectures)
 
 7. http://videolectures.net/yoshua_bengio/ : Video Lectures By Yoshua Bengio on Theoritical Aspects of Deep 	Learning. They are counterparts of resource [4]. 
 
@@ -40,6 +41,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 19. http://cs224d.stanford.edu/lectures/CS224d-Lecture11.pdf : Short notes on backprop and word embeddings
 
 20. http://cilvr.nyu.edu/doku.php?id=courses:deeplearning2014:start : A course by Yann Lecunn on Deep Learning taught at NYU.
+
+21. http://cs224d.stanford.edu/ : Course Specifically designed for DEEP LEARNING FOR NLP
 
 # Word Embeddings related articles
 
