@@ -97,3 +97,12 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 2. https://code.google.com/archive/p/word2vec/ : Links to unlabelled english corpus
 
 3. http://github.com/brmson/dataset-sts : Variety of datasets wrapped in Python with focus on comparing two sentences, sample implementations of popular deep NN models in Keras
+
+4. http://www.mpi-sws.org/~cristian/Cornell_Movie-Dialogs_Corpus.html : Conversation dataset (for learning seq2seq models possible leading to a chatbot kind of application)
+
+5. https://github.com/rkadlec/ubuntu-ranking-dataset-creator : Ubuntu Dialog Corpus 
+ 5.1 : http://arxiv.org/pdf/1506.08909v3.pdf : Accompanying paper for Ubuntu dataset
+
+6. http://www.aclweb.org/anthology/P12-2040 : Another Dialogue corpus
+
+7. http://www.lrec-conf.org/proceedings/lrec2012/pdf/1114_Paper.pdf : yet another dialogue corpus
