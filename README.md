@@ -80,6 +80,10 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 4. http://colah.github.io/posts/2015-08-Understanding-LSTMs/ : Great post explaining LSTMs
 
+# Solving NLP tasks using Deep Learning
+
+1. http://eric-yuan.me/ner_1/ : Named Entity Recognition using CNN
+
 # Optimization for Neural Networks
 
 1. http://cs231n.github.io/neural-networks-3/#update
