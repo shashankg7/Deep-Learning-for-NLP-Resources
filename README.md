@@ -111,3 +111,7 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 7. http://www.lrec-conf.org/proceedings/lrec2012/pdf/1114_Paper.pdf : yet another dialogue corpus
 8. http://www.cs.technion.ac.il/~gabr/resources/data/ne_datasets.html : NER resources
+
+9. http://linguistics.cornell.edu/language-corpora : List of NLP resources
+
+10. https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt : Annotated twitter corpus
