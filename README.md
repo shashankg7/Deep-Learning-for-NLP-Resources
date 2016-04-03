@@ -115,3 +115,9 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 9. http://linguistics.cornell.edu/language-corpora : List of NLP resources
 
 10. https://github.com/aritter/twitter_nlp/blob/master/data/annotated/ner.txt : Annotated twitter corpus
+
+11. http://schwa.org/projects/resources/wiki/Wikiner
+
+12. https://www.aclweb.org/anthology/W/W10/W10-0712.pdf : Paper describing annotation process for NER on large email data (could not find any link, if anyone finds out please feel free to send a PR)
+
+13. http://www.cs.cmu.edu/~mgormley/papers/napoles+gormley+van-durme.naaclw.2012.pdf : Annotated gigawords
