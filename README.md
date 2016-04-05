@@ -44,6 +44,10 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 21. http://cs224d.stanford.edu/ : Course Specifically designed for DEEP LEARNING FOR NLP
 
+22. https://devblogs.nvidia.com/parallelforall/understanding-natural-language-deep-neural-networks-using-torch/#.VPYhS2vB09E.reddit : NLP using Torch
+
+23. http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015 : Natural Language Understanding with Distributed Representations
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
@@ -83,6 +87,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 # Solving NLP tasks using Deep Learning
 
 1. http://eric-yuan.me/ner_1/ : Named Entity Recognition using CNN
+
+2. http://arxiv.org/pdf/1511.06388.pdf : Word Sense Disambiguation using Word Embeddings
 
 # Optimization for Neural Networks
 
