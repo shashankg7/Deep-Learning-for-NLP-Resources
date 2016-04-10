@@ -90,6 +90,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 2. http://arxiv.org/pdf/1511.06388.pdf : Word Sense Disambiguation using Word Embeddings
 
+3. http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow : CNN for Text Classification
+
 # Optimization for Neural Networks
 
 1. http://cs231n.github.io/neural-networks-3/#update
