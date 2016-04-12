@@ -48,6 +48,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 23. http://www.kyunghyuncho.me/home/courses/ds-ga-3001-fall-2015 : Natural Language Understanding with Distributed Representations
 
+24. http://mlwave.com/kaggle-ensembling-guide/ : ENSEMBLING guide. Very useful for designing practical ML systems
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
@@ -127,3 +129,12 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 12. https://www.aclweb.org/anthology/W/W10/W10-0712.pdf : Paper describing annotation process for NER on large email data (could not find any link, if anyone finds out please feel free to send a PR)
 
 13. http://www.cs.cmu.edu/~mgormley/papers/napoles+gormley+van-durme.naaclw.2012.pdf : Annotated gigawords
+
+14. http://jmcauley.ucsd.edu/data/amazon/ : Amazon review dataset (LARGE CORPUS)
+
+15. http://curtis.ml.cmu.edu/w/courses/index.php/Amazon_product_reviews_dataset : Amazon product review dataset (available only on request)
+
+16. http://times.cs.uiuc.edu/~wang296/Data/ : Amazon review dataset
+
+17. https://www.yelp.com/dataset_challenge : Yelp dataset (review + images)
+
