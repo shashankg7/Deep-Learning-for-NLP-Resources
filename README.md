@@ -50,6 +50,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 24. http://mlwave.com/kaggle-ensembling-guide/ : ENSEMBLING guide. Very useful for designing practical ML systems
 
+25. http://joanbruna.github.io/stat212b/ : TOPIC COURSE IN DEEP LEARNING by Joan Brune, UC Berkley Stats Department
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
