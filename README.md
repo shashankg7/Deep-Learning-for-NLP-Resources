@@ -119,6 +119,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 10. arxiv.org/pdf/1412.5335 : ICLR '15 paper on using ensembles of NN + Generative models (Language model, Naive bayes) for solving Sentiment prediction task
 
+11. http://research.microsoft.com/pubs/214617/www2014_cdssm_p07.pdf : Extension of paper mentioned in [4] which used Convolution and max-pooling operations to learn low-dimensional semanti                                                                      c representation of text
+
 
 # Optimization for Neural Networks
 
