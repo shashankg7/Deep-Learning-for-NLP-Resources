@@ -78,6 +78,11 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 12. https://levyomer.files.wordpress.com/2014/09/neural-word-embeddings-as-implicit-matrix-factorization.pdf : word2vec as matrix factorization
 
+13. http://research.microsoft.com/pubs/232372/CIKM14_tutorial_HeGaoDeng.pdf : Tutorial by Microsoft on DL for NLP at CIKM '14
+
+14. http://blog.aidangomez.ca/2016/04/17/Backpropogating-an-LSTM-A-Numerical-Example/ : How backprop works in LSTM's (the so-called BPTT (back prop. through time)
+
+
 # RNN related stuff
 
 1. http://www.neutronest.moe/2015-11-15-LSTM-survey.html
@@ -88,6 +93,10 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 4. http://colah.github.io/posts/2015-08-Understanding-LSTMs/ : Great post explaining LSTMs
 
+5. https://www.reddit.com/r/MachineLearning/comments/2zkb3b/lstm_a_search_space_odyssey_comparison_of_lstm/ : Comparision of various LSTM architectures
+
+
+
 # Solving NLP tasks using Deep Learning
 
 1. http://eric-yuan.me/ner_1/ : Named Entity Recognition using CNN
@@ -95,6 +104,21 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 2. http://arxiv.org/pdf/1511.06388.pdf : Word Sense Disambiguation using Word Embeddings
 
 3. http://www.wildml.com/2015/12/implementing-a-cnn-for-text-classification-in-tensorflow : CNN for Text Classification
+
+4. http://research.microsoft.com/en-us/projects/dssm/ : Deep Learning Models for learning Semantic Representation of text(document, paragraph, phrase) which can be used to solve variety of                                                        tasks including Machine Translation, Document ranking for web search etc.
+
+5. http://www.aclweb.org/anthology/P15-1130 : Sentiment Analysis using RNN (LSTMs)
+
+6. http://ir.hit.edu.cn/~dytang/paper/emnlp2015/emnlp2015.pdf : Sentiment Analysis using Hierarchical RNN's (GRU)
+
+7. https://devblogs.nvidia.com/parallelforall/introduction-neural-machine-translation-with-gpus/ : Machine translation using RNN's
+
+8. http://neon.nervanasys.com/docs/latest/lstm.html : Practical example of using LSTM for sentiment analysis
+
+9. https://cs224d.stanford.edu/reports/HongJames.pdf : Again Sentiment Analysis using LSTMs
+
+10. arxiv.org/pdf/1412.5335 : ICLR '15 paper on using ensembles of NN + Generative models (Language model, Naive bayes) for solving Sentiment prediction task
+
 
 # Optimization for Neural Networks
 
