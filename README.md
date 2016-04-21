@@ -95,7 +95,10 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 5. https://www.reddit.com/r/MachineLearning/comments/2zkb3b/lstm_a_search_space_odyssey_comparison_of_lstm/ : Comparision of various LSTM architectures
 
+6. http://www.fit.vutbr.cz/~imikolov/rnnlm/ : RNN based language modelling toolkit by Tomas Micholov
 
+7. http://www.fit.vutbr.cz/~imikolov/rnnlm/char.pdf : A new technique in solving sequence tasks which I belive will be point of interest in few years : subword based language models.
+                                                      Usually good at handling OOV, spelling error problems
 
 # Solving NLP tasks using Deep Learning
 
