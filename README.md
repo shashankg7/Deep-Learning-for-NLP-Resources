@@ -174,13 +174,21 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 # Practical tools for Deep Learning
 
 1. Deep Learning libraries
+
     1.1. theano
+
     1.2. torch
+
     1.3. tensorflow
+
     1.4. keras
+
     1.5. lasagne
+
     1.6. blocks and fuel
+
     1.7. skflow
+
     1.8. scicuda
 
 2. (Automatic Differentiation tool in python)[https://github.com/HIPS/autograd]
