@@ -52,6 +52,8 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 25. http://joanbruna.github.io/stat212b/ : TOPIC COURSE IN DEEP LEARNING by Joan Brune, UC Berkley Stats Department
 
+26. https://medium.com/@memoakten/selection-of-resources-to-learn-artificial-intelligence-machine-learning-statistical-inference-23bc56ba655#.s5kjy7bgo : LIST of Deep Learning Talk
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
