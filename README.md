@@ -54,6 +54,16 @@ List of resources to get started with Deep Learning for NLP. (Updated incrementa
 
 26. https://medium.com/@memoakten/selection-of-resources-to-learn-artificial-intelligence-machine-learning-statistical-inference-23bc56ba655#.s5kjy7bgo : LIST of Deep Learning Talk
 
+# Deep Learning for Information Retrieval Links:
+
+There are two very good survey papers on using Deep Learning for Information Retrieval. There reference section in these articles is an exhaustive list (I think) for IR using DL.
+
+1. https://arxiv.org/abs/1611.03305 : Getting started with Neural Models for Semantic Matching in Web Search
+
+2. https://arxiv.org/pdf/1611.06792.pdf : Neural Information Retrieval: A Literature Review
+
+3. http://www.slideshare.net/BhaskarMitra3/neural-text-embeddings-for-information-retrieval-wsdm-2017 : WSDM'17 Tut. on Deep Learning for IR
+
 # Word Embeddings related articles
 
 1. https://www.tensorflow.org/versions/r0.7/tutorials/word2vec/index.html : Tensorflow tutorial on word2vec
