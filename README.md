@@ -112,6 +112,11 @@ There are two very good survey papers on using Deep Learning for Information Ret
 7. http://www.fit.vutbr.cz/~imikolov/rnnlm/char.pdf : A new technique in solving sequence tasks which I belive will be point of interest in few years : subword based language models.
                                                       Usually good at handling OOV, spelling error problems
 
+8. https://github.com/guillaume-chevalier/LSTM-Human-Activity-Recognition : Human activity recognition using TensorFlow on smartphone sensors dataset and an LSTM RNN (predict time series).
+
+9. https://github.com/guillaume-chevalier/seq2seq-signal-prediction : Learn and practice seq2seq in TensorFlow on time series data for signal prediction
+
+
 # Solving NLP tasks using Deep Learning
 
 1. http://eric-yuan.me/ner_1/ : Named Entity Recognition using CNN
